@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Project-specific
+## Firebase key
+smartbike-key.json
+## DB URL
+db-url.json
